@@ -1,3 +1,7 @@
 <script>
 	alert("Hello World");
 </script>
+
+<script>
+	alert("Hello Man");
+</script>
